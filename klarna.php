@@ -6,7 +6,7 @@
   * Version: 2.0
   * Author: Zao
   * Author URI: http://zaowebdesign.com/
-  * Sputnik ID: klarna-payment-gateway
+  * Sputnik ID: klarna-gateway-fork
   **/
 
 	function load_klarna_gateways() {
